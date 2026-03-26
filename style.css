@@ -1,0 +1,51 @@
+
+.header {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans Regular';
+}
+.week {
+    text-align: center;
+    font-family: 'Lucida Sans Regular';
+}
+.time {
+    font-family: 'Lucida Sans Regular';
+    font-weight:bolder;
+}
+body{
+    font-family: Arial;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.header{
+    color: darkblue;
+}
+
+table{
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+    background: white;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th{
+    background-color: orangered;
+    color: white;
+}
+
+.break{
+    background-color: orange;
+    font-weight: bold;
+}
+
+.bell{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
